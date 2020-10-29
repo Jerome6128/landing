@@ -1,0 +1,28 @@
+.banner {
+  padding: 200px;
+  background-image: url(../../images/background.png);
+}
+
+.banner h1 {
+  color: white;
+  font-family: Poppins;
+  font-weight:700;
+  font-size: 32px;
+}
+
+.banner p {
+  color: white;
+  font-family: Open sans;
+  font-weight:Light;
+  font-size: 20px;
+}
+
+.banner a {
+  color: white;
+  font-family: Open sans;
+  font-weight:Light;
+  font-size: 16px;
+  background-color: rgb(28,221,135);
+  border-radius: 20px;
+  padding: 10px 20px;
+}

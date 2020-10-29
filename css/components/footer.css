@@ -1,0 +1,23 @@
+.footer {
+  background-color: rgb(44,44,43);
+  padding: 80px;
+  margin: 40px 0 0 0;
+  text-align: center;
+}
+
+.footer a {
+  color: rgb(28,221,135);
+  font-family: Open sans;
+  font-size: 32px;
+  font-weight: light;
+
+}
+
+.footer p {
+  color: rgb(107,107,108);
+  text-align: center;
+  font-family: Open sans;
+  font-size: 16px;
+  font-weight: light;
+
+}
