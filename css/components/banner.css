@@ -21,8 +21,9 @@
   color: white;
   font-family: Open sans;
   font-weight:Light;
-  font-size: 16px;
+  font-size: 16px;/*
   background-color: rgb(28,221,135);
+*/   background-color: rgb(28,221,135);
   border-radius: 20px;
   padding: 10px 20px;
 }
